@@ -1,0 +1,7 @@
+/snake-engine.iml
+/.idea/
+/src/main/csharp/
+/src/main/javascript/
+/src/main/scala/
+/src/main/vbnet/
+/target/
