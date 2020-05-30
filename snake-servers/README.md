@@ -1,7 +1,5 @@
-For NonJava languages:
-- please go to .\src\main\<language>
-- chose your language
-- and follow README.md instructions
+The snake game engine is taken from Codenjoy,
+and pathfinding algorithm is implemented!
 
 For Java:
 - setup Java (JDK 8)
